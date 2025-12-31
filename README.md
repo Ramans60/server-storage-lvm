@@ -1,3 +1,4 @@
-# server-storage-lvm
-Self-study project demonstrating how multiple physical disks are combined into a single logical volume using Logical Volume Manager (LVM) in Linux.
 # Server Storage Fundamentals: Combining Multiple Physical Disks into One Logical Volume Using LVM (Linux)
+
+This is a self-study project exploring how servers combine multiple physical disks into a single logical storage unit using Linux Logical Volume Manager (LVM).  
+The project includes hands-on implementation, real-world troubleshooting, and practical storage concepts used in production systems.
